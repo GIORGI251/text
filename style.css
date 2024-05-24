@@ -1,0 +1,13 @@
+div{
+    width:250px;
+    height:300px;
+    border: 1px solid #888888;
+    text-align: justify;
+    margin-top: 77px;
+    margin-left: 37px;
+}
+.h3-color {
+    font-weight: bolder; color: red;
+    margin-top: 150px;
+    margin-left: 500px;
+}
